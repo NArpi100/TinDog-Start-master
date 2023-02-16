@@ -1,0 +1,235 @@
+#title{
+  background-color: #ff4c80;
+}
+h1{
+
+  font-family: 'Merriweather', serif;
+  color:#fff;
+}
+a{
+
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+
+
+}
+.container-fluid{
+
+
+  padding:3% 15%;
+
+  }
+  .navbar-brand{
+
+    font-family:"Montserrat";
+    font-size: 1.7rem;
+    font-weight: bold;
+    color:white;
+    padding: 0 0 4 5;
+  }
+  .navbar{
+    padding-bottom: 2.5rem;
+  }
+  .nav-item{
+    padding:0 17px;
+  }
+  .nav-link{
+    color:grey;
+
+  }
+  .Download-button{
+    margin: 5% 4% 5% 0%;
+  }
+  .title-image{
+    width: 60%;
+    transform:rotate(25deg);
+    background-color: #ff4c17;
+    position:absolute;
+    right:55%;
+  }
+#features{
+  padding:7% 10%;
+  margin: 5% 4% 5% 0%;
+  position:relative;
+  z-index:1;
+}
+.feature-box{
+  text-align: center;
+}
+h3{
+  font-family: "Montserrat-bold";
+  color: pink;
+  font-size:1.2rem;
+  font-weight:bold;
+}
+p{
+  color:#ff4c17;
+}
+.icon{
+  color:#ef1717;
+}
+
+.icon:hover{
+
+  color:#ff4c80;
+}
+
+#testimonials{
+  padding:7% 14%;
+  text-align: center;
+  background-color:#ff4c17;
+  color:#fff;
+}
+h2{
+
+  font-family: "merriweather";
+  font-size: 3rem;
+  line-height:1.5;
+  padding:4% 3%;
+
+
+
+}
+h3:hover{
+
+  color:#ff4c20;
+}
+
+.testimonial-image{
+
+  border-radius: 100%;
+  width:30%;
+  padding:8% 5%;
+  margin:15px;
+
+}
+
+#press{
+
+  background-color: #ff4c17;
+  padding:10% 8%;
+}
+
+#pricing{
+
+  padding:8% 10%;
+
+
+}
+
+.navy:hover{
+
+  color:#ff4c17;
+
+}
+.navy{
+
+  color:darkblue;
+}
+
+.card-header{
+
+color:red;
+}
+
+.btn{
+
+  background-color:maroon;
+}
+.btn:hover{
+   color:#ddf;
+
+}
+#footer{
+  font-family: "Merriweather";
+
+  padding: 2% 0%;
+}
+
+p{
+  color:grey;
+}
+.collaboration{
+  color:grey;
+  text-align:center;
+  font-size: 75%;
+  padding:5%;
+}
+
+.title-image{
+
+  z-index: -1;
+}
+
+.plan{
+
+  text-align:center;
+  color:#ff4c17;
+  font-weight: bold;
+}
+#footer{
+
+  padding: 5% 3%;
+}
+
+#footer:hover{
+   color:lightblue;
+  
+}
+.contact{
+
+  font-size:110%;
+  font-weight:bold;
+}
+.number{
+  font-size: 110%;
+  font-weight:bold;
+
+}
+#con{
+
+  color:#ede;
+
+
+}
+
+.cta-heading{
+  font-family:"Merriweather";
+  color:#fff;
+  line-height:1;
+  font-weight:bold;
+  font-size: 50px;
+}
+
+
+
+.simple{
+
+  font-size: 170%;
+  font-weight:bold;
+  color:powderblue;
+
+}
+#footer{
+  text-align:center;
+}
+
+ .low{
+
+   background-color: salmon;
+   text-align: center;
+   padding:15% 20%;
+ }
+
+ #press{
+
+   padding:3% 15%;
+   background-color:#ddd;
+ }
+.a{
+  left:50%;
+}
+.b{
+
+  left:17%;
+}
